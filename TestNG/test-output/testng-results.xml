@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="143" started-at="2022-07-03T17:59:14 EEST" finished-at="2022-07-03T17:59:14 EEST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="143" started-at="2022-07-03T17:59:14 EEST" finished-at="2022-07-03T17:59:14 EEST">
+      <class name="Calculations.Summation">
+        <test-method status="PASS" signature="Test_Sum_NegativePositiveNumbers()[pri:0, instance:Calculations.Summation@4f970963]" name="Test_Sum_NegativePositiveNumbers" duration-ms="18" started-at="2022-07-03T17:59:14 EEST" finished-at="2022-07-03T17:59:14 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Sum_NegativePositiveNumbers -->
+        <test-method status="PASS" signature="Test_Sum_TwoNegativeNumbers()[pri:0, instance:Calculations.Summation@4f970963]" name="Test_Sum_TwoNegativeNumbers" duration-ms="1" started-at="2022-07-03T17:59:14 EEST" finished-at="2022-07-03T17:59:14 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Sum_TwoNegativeNumbers -->
+        <test-method status="PASS" signature="Test_Sum_TwoPositiveNumbers()[pri:0, instance:Calculations.Summation@4f970963]" name="Test_Sum_TwoPositiveNumbers" duration-ms="2" started-at="2022-07-03T17:59:14 EEST" finished-at="2022-07-03T17:59:14 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Sum_TwoPositiveNumbers -->
+      </class> <!-- Calculations.Summation -->
+      <class name="Calculations.Multiplication">
+        <test-method status="PASS" signature="Test_Multiply_NegativePositiveNumbers()[pri:0, instance:Calculations.Multiplication@887af79]" name="Test_Multiply_NegativePositiveNumbers" duration-ms="2" started-at="2022-07-03T17:59:14 EEST" finished-at="2022-07-03T17:59:14 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Multiply_NegativePositiveNumbers -->
+        <test-method status="PASS" signature="Test_Multiply_TwoNegativeNumbers()[pri:0, instance:Calculations.Multiplication@887af79]" name="Test_Multiply_TwoNegativeNumbers" duration-ms="1" started-at="2022-07-03T17:59:14 EEST" finished-at="2022-07-03T17:59:14 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Multiply_TwoNegativeNumbers -->
+        <test-method status="PASS" signature="Test_Multiply_TwoPositiveNumbers()[pri:0, instance:Calculations.Multiplication@887af79]" name="Test_Multiply_TwoPositiveNumbers" duration-ms="2" started-at="2022-07-03T17:59:14 EEST" finished-at="2022-07-03T17:59:14 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Multiply_TwoPositiveNumbers -->
+      </class> <!-- Calculations.Multiplication -->
+      <class name="Calculations.Division">
+        <test-method status="PASS" signature="Test_Devide_NegativePositiveNumbers()[pri:0, instance:Calculations.Division@7b49cea0]" name="Test_Devide_NegativePositiveNumbers" duration-ms="3" started-at="2022-07-03T17:59:14 EEST" finished-at="2022-07-03T17:59:14 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Devide_NegativePositiveNumbers -->
+        <test-method status="PASS" signature="Test_Devide_TwoNegativeNumbers()[pri:0, instance:Calculations.Division@7b49cea0]" name="Test_Devide_TwoNegativeNumbers" duration-ms="2" started-at="2022-07-03T17:59:14 EEST" finished-at="2022-07-03T17:59:14 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Devide_TwoNegativeNumbers -->
+        <test-method status="PASS" signature="Test_Devide_TwoPositiveNumbers()[pri:0, instance:Calculations.Division@7b49cea0]" name="Test_Devide_TwoPositiveNumbers" duration-ms="1" started-at="2022-07-03T17:59:14 EEST" finished-at="2022-07-03T17:59:14 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Devide_TwoPositiveNumbers -->
+      </class> <!-- Calculations.Division -->
+      <class name="Calculations.Subtraction">
+        <test-method status="PASS" signature="Test_Substract_NegativePositiveNumbers()[pri:0, instance:Calculations.Subtraction@61f8bee4]" name="Test_Substract_NegativePositiveNumbers" duration-ms="3" started-at="2022-07-03T17:59:14 EEST" finished-at="2022-07-03T17:59:14 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Substract_NegativePositiveNumbers -->
+        <test-method status="PASS" signature="Test_Substract_TwoNegativeNumbers()[pri:0, instance:Calculations.Subtraction@61f8bee4]" name="Test_Substract_TwoNegativeNumbers" duration-ms="2" started-at="2022-07-03T17:59:14 EEST" finished-at="2022-07-03T17:59:14 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Substract_TwoNegativeNumbers -->
+        <test-method status="PASS" signature="Test_Substract_TwoPositiveNumbers()[pri:0, instance:Calculations.Subtraction@61f8bee4]" name="Test_Substract_TwoPositiveNumbers" duration-ms="2" started-at="2022-07-03T17:59:14 EEST" finished-at="2022-07-03T17:59:14 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Substract_TwoPositiveNumbers -->
+      </class> <!-- Calculations.Subtraction -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
