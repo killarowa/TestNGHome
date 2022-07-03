@@ -25,7 +25,7 @@ public class Subtraction {
 		
 		int actual = (a - b);
 		
-		int expected = -25;
+		int expected = -26;
 		
 		Assert.assertEquals(actual, expected);
 	}
